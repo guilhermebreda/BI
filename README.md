@@ -27,17 +27,17 @@ This work reflects not only the technical execution of the challenge but also ho
 ### Page 1 — Overview
 ![Page 1 — Overview](screenshots/Ops_Intelligence_Transactions_page1.png)
 
-### Page 2 — Segments
-![Page 2 — Segments](screenshots/Ops_Intelligence_Transactions_page2.png)
+### Page 2 — Segments (Installments, Payment Method & Product)
+![Page 2 — Segments (Installments, Payment Method & Product)](screenshots/Ops_Intelligence_Transactions_page2.png)
 
 ### Page 3 — Transactional Behavior
 ![Page 3 — Transactional Behavior](screenshots/Ops_Intelligence_Transactions_page3.png)
 
-### Page 4 — Anticipation Methods
-![Page 4 — Anticipation Methods](screenshots/Ops_Intelligence_Transactions_page4.png)
+### Page 4 — AI Bot Proposal
+![Page 4 —  AI Bot Proposal](screenshots/Ops_Intelligence_Transactions_page4.png)
 
-### Page 5 — AI Bot Proposal
-![Page 5 — AI Bot Proposal](screenshots/Ops_Intelligence_Transactions_page5.png)
+### Page 5 — About / Author
+![Page 5 — About / Author](screenshots/Ops_Intelligence_Transactions_page5.png)
 
 ## 🤖 AI Assistant Proposal
 - Concept for a CloudWalk AI bot to deliver daily KPI updates, anomaly alerts, and growth insights directly to Slack or email.
