@@ -11,10 +11,10 @@ My approach combined **exploratory data analysis in Python** (to understand tran
 This work reflects not only the technical execution of the challenge but also how I approach **data-driven problem solving, business storytelling, and automation opportunities**.
 
 ## 📊 Dataset
-- `Operations_analyst_data.csv` — transaction dataset provided for the challenge.
+- [Operations_analyst_data.csv](Operations_analyst_data.csv) — transaction dataset provided for the challenge.
 
 ## 📓 Exploratory Analysis
-- `exploratory_analysis.ipynb` — Jupyter Notebook with initial exploration, KPI calculations, and visualizations.
+- [exploratory_analysis.ipynb](exploratory_analysis.ipynb) — Jupyter Notebook with initial exploration, KPI calculations, and visualizations.
 
 ## 📈 Interactive Dashboard
 - Built in **Google Looker Studio**.  
@@ -24,13 +24,13 @@ This work reflects not only the technical execution of the challenge but also ho
 ## 🖼️ Screenshots
 - `screenshots/` — sample views of the dashboard (for quick preview).
 
-### Page 1 — Overview
+### Page 1 — Overview (KPIs)
 ![Page 1 — Overview](screenshots/Ops_Intelligence_Transactions_page1.png)
 
 ### Page 2 — Segments (Installments, Payment Method & Product)
 ![Page 2 — Segments (Installments, Payment Method & Product)](screenshots/Ops_Intelligence_Transactions_page2.png)
 
-### Page 3 — Transactional Behavior
+### Page 3 — Transactional Behavior (Avg Ticket Analysis)
 ![Page 3 — Transactional Behavior](screenshots/Ops_Intelligence_Transactions_page3.png)
 
 ### Page 4 — AI Bot Proposal
