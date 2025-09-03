@@ -17,9 +17,19 @@ This work reflects not only the technical execution of the challenge but also ho
 - [exploratory_analysis.ipynb](exploratory_analysis.ipynb) — Jupyter Notebook with initial exploration, KPI calculations, and visualizations.
 
 ## 📈 Interactive Dashboard
-- Built in **Google Looker Studio**.  
-- [View the Dashboard here](https://lookerstudio.google.com/reporting/7324f2fd-ef5b-4bee-a209-89c83a980bcd)  
-- Includes KPIs, segment analysis, transactional behavior, anticipation methods, and AI bot proposal.
+Built in **Google Looker Studio**.  
+
+[View the Dashboard here](https://lookerstudio.google.com/reporting/7324f2fd-ef5b-4bee-a209-89c83a980bcd)  
+
+Includes KPIs, segment analysis, transactional behavior, anticipation methods, and AI bot proposal.
+
+⚠️ If you face any access or permission issues, please contact me at **guilherme.breda@gmail.com**
+
+## 📄 Dashboard (PDF Version)
+
+For convenience, a PDF export of the Looker Studio dashboard is also available:
+
+- [Download Dashboard PDF](Ops_Intelligence_Transactions.pdf)
 
 ## 🖼️ Screenshots
 - `screenshots/` — sample views of the dashboard (for quick preview).
@@ -40,10 +50,11 @@ This work reflects not only the technical execution of the challenge but also ho
 ![Page 5 — About / Author](screenshots/Ops_Intelligence_Transactions_page5.png)
 
 ## 🤖 AI Assistant Proposal
-- Concept for an AI bot to deliver daily KPI updates, anomaly alerts, and growth insights directly to Slack or email.
+- Detailed on **Page 4** of the interactive dashboard.
+- Includes concept, example use cases, and sample automated alerts.
 
 ## 📌 Author
 Analysis & Dashboard prepared by **Guilherme Breda Rezende**  
-🔗 [LinkedIn](https://www.linkedin.com/in/guilhermebreda)
+🔗 [linkedin.com/in/guilhermebreda](https://www.linkedin.com/in/guilhermebreda)
 
 📧 `guilherme.breda@gmail.com`
