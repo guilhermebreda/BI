@@ -18,18 +18,16 @@ This work reflects not only the technical execution of the challenge but also ho
 
 ## 📈 Interactive Dashboard
 Built in **Google Looker Studio**.  
-
 [View the Dashboard here](https://lookerstudio.google.com/reporting/7324f2fd-ef5b-4bee-a209-89c83a980bcd)  
 
 Includes KPIs, segment analysis, transactional behavior, anticipation methods, and AI bot proposal.
-
 ⚠️ If you face any access or permission issues, please contact me at **guilherme.breda@gmail.com**
 
 ## 📄 Dashboard (PDF Version)
 
 For convenience, a PDF export of the Looker Studio dashboard is also available:
 
-- [Download Dashboard PDF](Ops_Intelligence_Transactions.pdf)
+- [View Dashboard PDF](Ops_Intelligence_Transactions.pdf)
 
 ## 🖼️ Screenshots
 - `screenshots/` — sample views of the dashboard (for quick preview).
