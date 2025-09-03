@@ -45,4 +45,5 @@ This work reflects not only the technical execution of the challenge but also ho
 ## 📌 Author
 Analysis & Dashboard prepared by **Guilherme Breda Rezende**  
 🔗 [LinkedIn](https://www.linkedin.com/in/guilhermebreda)
+
 📧 `guilherme.breda@gmail.com`
