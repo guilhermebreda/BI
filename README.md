@@ -1,10 +1,10 @@
 # Operations Intelligence Analyst Challenge
 
-This repository contains my submission for the **Operations Intelligence Analyst** technical challenge at CloudWalk.
+This repository contains my submission for the **Operations Intelligence Analyst** technical challenge.
 
 ## Introduction
 
-Hi, my name is **Guilherme Breda Rezende**, and this repository contains my solution for the **Operations Intelligence Analyst Challenge at CloudWalk**.  
+Hi, my name is **Guilherme Breda Rezende**, and this repository contains my solution for the **Operations Intelligence Analyst Challenge**.  
 
 My approach combined **exploratory data analysis in Python** (to understand transaction patterns, KPIs, and anomalies) with an **interactive dashboard in Google Looker Studio** (to deliver clear, executive-friendly insights). I also proposed an **AI-powered assistant** to automate KPI tracking and anomaly detection, turning daily operations into actionable intelligence.  
 
@@ -40,8 +40,9 @@ This work reflects not only the technical execution of the challenge but also ho
 ![Page 5 — About / Author](screenshots/Ops_Intelligence_Transactions_page5.png)
 
 ## 🤖 AI Assistant Proposal
-- Concept for a CloudWalk AI bot to deliver daily KPI updates, anomaly alerts, and growth insights directly to Slack or email.
+- Concept for an AI bot to deliver daily KPI updates, anomaly alerts, and growth insights directly to Slack or email.
 
 ## 📌 Author
 Analysis & Dashboard prepared by **Guilherme Breda Rezende**  
-[LinkedIn](https://www.linkedin.com/in/guilhermebreda) | [Email](mailto:guilherme.breda@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/guilhermebreda)
+📧 `guilherme.breda@gmail.com`
